@@ -9,6 +9,4 @@ import { FormsModule } from '@angular/forms';
 export class AppComponent  {
   name = 'Angular8';
   age=12;
-  employee="gggggggggggg";
-  employee2="aaaaaaa";
 }
